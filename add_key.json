@@ -1,1 +1,11 @@
-{"status":"success","end_date":"2026-11-11-12-31","create_date":"2026-11-09","device_ID":"","title":"VIP Free","username":"adjok","msg":"Key hợp lệ!"}
+{
+  "status": "success",
+  "data": {
+    "key": "key",
+    "end_date": "2030-12-31 23:59:59",
+    "device_ID": "",
+    "device_count": 1,
+    "timestamp": 1234567890
+  },
+  "server_signature": "abc"
+}
