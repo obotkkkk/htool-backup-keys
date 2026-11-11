@@ -1,1 +1,16 @@
-
+{
+  "schema": "htool-key-collection",
+  "schema_version": 1,
+  "key_type": "LICENSE",
+  "records": [
+    {
+      "id": "b432a73b-a848-49c8-9d57-aa73000d2108",
+      "key_sha256": "d78230602523d5ed85b4257b9a4974bc119f49c3b4e9fda0916df91015a31596",
+      "issued_at": "2026-11-11T17:27:57Z",
+      "expires_at": "2026-12-11T17:27:57Z",
+      "entitlement": "LICENSE",
+      "signature_algorithm": "RSA-SHA256",
+      "signature": "eo8HjZx8Md9E9FG/wwp8YP4xVt+yP05+b7Kk5Yz4eU/SFhumXN/hDjj3Dcf141hceL85ZCU+d+hdf5tisNkuK1d7/Dkd4/8x4x+TRJcppQlKN5DTUnp/liLF2ScAJi7w2ifqkSvg0RPGAY87heSahpEOuvHkblILMmxPHpPPsTOncLLpcRUaWHz2V8uGu+ObWREeHe+GlqsDGXNAENtutVTG4wg+M0dZgyK3bL6udqES9uVxsQhbB3QEyWkI8jBNsNJ+t1uETJlxv709HZDmLoNRO5N/UDU1NyrLmmKEyG4/9Cu4R6fqvq8AAL4ySgK7BiT4i84/23g9IN8p0niUeA=="
+    }
+  ]
+}
