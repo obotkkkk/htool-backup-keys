@@ -1,1 +1,17 @@
+{
+  "schema": "htool-key-collection",
+  "schema_version": 1,
+  "key_type": "ADMIN",
+  "records": [
+    {
+      "id": "4c118996-30f3-474a-bfce-ccfe0d7cd622",
+      "key_sha256": "ee2e96b68dc87c18d414a5bb5506547f66ac2ea260494219fe2d06151a7f3e99",
+      "issued_at": "2026-11-11T17:29:19Z",
+      "expires_at": "2040-07-20T17:29:19Z",
+      "entitlement": "ADMIN",
+      "signature_algorithm": "RSA-SHA256",
+      "signature": "hgX1Xv99mSKMoQmdU7jRlQR06WEZuMH4eB9bXMW6WUof2V8v7B/nAsHX3r191rG5b8e6ste5UnCNvzlyGoY+UKnCh3RpTv7hLEYCOpaKEpggNYvYpv3NN+ANi4hyd7lu3AdSqodhCkwsfGMJ4hTa0IM/RFUOesMaF0hFNLf7D9NQ6tFUhl1H/bXOq4JUI4fkJjfIk9KNjr0+DxsRQZRZ9MbqA6j7bZw5deCwBqTuCRYagZblzLlafnfSsy9VatDPgol7C5jPtEjGSdklVopBefOadCQfcXUVDWnM5FFXi187WzebbxtxQxm2XZyneoyAjOHMB6lBMluCy4Kr1/TLew=="
+    }
+  ]
+}
 
