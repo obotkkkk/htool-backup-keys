@@ -1,0 +1,8 @@
+{
+  "status": true,
+  "code": 200,
+  "message": "Success",
+  "data": {
+    "active": true
+  }
+}
